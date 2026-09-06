@@ -1,0 +1,1 @@
+Open index.html in your browser. Keep the files together. Google Fonts and technology icons require internet access. The design-comparison switch is omitted from this standalone funky export.
