@@ -6,7 +6,7 @@
 
 A personal engineering portfolio built to showcase the systems I build, the problems I investigate, and the work I'm doing across software engineering, machine learning, data, and research.
 
-[**View Live Portfolio ↗**](https://portfolio-krishna-five.vercel.app/) · [**GitHub**](https://github.com/krishnaprasharkp) · [**LinkedIn**](https://www.linkedin.com/in/krishna-prashar-645371221/)
+[**View Live Portfolio ↗**](https://portfolio-krishna-five.vercel.app/) · [**LinkedIn**](https://www.linkedin.com/in/krishna-prashar-645371221/)
 
 </div>
 
